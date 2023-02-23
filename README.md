@@ -12,4 +12,4 @@ This is an eBooking-app developped using react for the UI & Nodejs for backend
 
 ## Demo
 
-Check it out: No demo available yet. Stay tuned!
+Check it out 🚀: No demo available yet. Stay tuned!
